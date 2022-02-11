@@ -4,5 +4,4 @@ console.log('create register')
 console.log('email verification')
 console.log('login v-2')
 
-console.log("register-V2")
-console.log('anak sma disini')
+console.log('master')
