@@ -7,3 +7,8 @@ console.log("login v-2");
 console.log("master");
 
 console.log("fiturMutahir");
+console.log("register-V2")
+console.log('ampuh was here')
+console.log('ampuh was here 2')
+
+console.log('shelda was here')
